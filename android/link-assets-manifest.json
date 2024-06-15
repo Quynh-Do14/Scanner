@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Bai_Jamjuree/BaiJamjuree-Bold.ttf",
+      "sha1": "c0ab663db15f0a1fc5378beca43110e68d09a048"
+    },
+    {
+      "path": "src/assets/fonts/Bai_Jamjuree/BaiJamjuree-BoldItalic.ttf",
+      "sha1": "07d7469cb1ca127f477cc0229bcf046b60de7141"
+    },
+    {
+      "path": "src/assets/fonts/Bai_Jamjuree/BaiJamjuree-Italic.ttf",
+      "sha1": "aa3958eed717f14f0da978580d0ac11c4ee61caf"
+    },
+    {
+      "path": "src/assets/fonts/Bai_Jamjuree/BaiJamjuree-Medium.ttf",
+      "sha1": "3ae7a89a9e082afe41180580d3679fff96ce1e77"
+    },
+    {
+      "path": "src/assets/fonts/Bai_Jamjuree/BaiJamjuree-MediumItalic.ttf",
+      "sha1": "0f768c2deda9ac52608f37c6a27dcfee71e05819"
+    },
+    {
+      "path": "src/assets/fonts/Bai_Jamjuree/BaiJamjuree-Regular.ttf",
+      "sha1": "a7f5bfd86134a2430e69e9c516036b9191fed0e8"
+    },
+    {
+      "path": "src/assets/fonts/Bai_Jamjuree/BaiJamjuree-SemiBold.ttf",
+      "sha1": "39786b7919cbd3ae9c720c8008c6b332091d8b35"
+    },
+    {
+      "path": "src/assets/fonts/Bai_Jamjuree/BaiJamjuree-SemiBoldItalic.ttf",
+      "sha1": "4b3495e0023e4eb95745284095761314db8f89c7"
+    }
+  ]
+}

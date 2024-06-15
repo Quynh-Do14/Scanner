@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "979166997106",
+    "project_id": "documentscanner-4977f",
+    "storage_bucket": "documentscanner-4977f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979166997106:android:93799315aa009c1e9fb0eb",
+        "android_client_info": {
+          "package_name": "com.document"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkjvI8grhAqX-IIevMqEUwVY6kFeIqBmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
